@@ -1,10 +1,10 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Reconstruindo página inicial do instagram:
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o repositório modificado do Bootcamp da DIO, interface de login do Instagram! 
 
-### Os requisitos são:
+-personalizado o gráfico com as cores da logo do instagram.
+-adicionado os links de redirecionamento para página do instagran em "login" e "inscreva-se"
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
+[Perfil Linkedin](https://www.linkedin.com/in/alex-sandro-portela-360814100/)
+ 
 ## 🚀 Let's code! 🚀
